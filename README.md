@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ms16183&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3929897" style='border:none;'></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3929897" style='border:none;'></img>
 
 
 - Certificates
